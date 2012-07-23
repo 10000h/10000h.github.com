@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://10000h.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 10000h | My Octopress Blog]]></title>
+  <link href="http://10000h.github.com/blog/categories/10000h/atom.xml" rel="self"/>
   <link href="http://10000h.github.com/"/>
   <updated>2012-07-23T17:41:45+01:00</updated>
   <id>http://10000h.github.com/</id>
@@ -22,7 +22,7 @@
 
 <p>上周一和周二，发现自己一直想要证明的定理其实可以在书里找到！剩下的事情就是要用它做自己的工作了。然而接下来的日子里没有动笔。之后就开始试图建立此站。周六出去玩了一天，周日休息了一天。</p>
 
-<p>周六和老爸聊天，谈到如何防止孩子近视。老爸观点是，从孩子很小就做起，走一步看一步，不好高骛远，但一定要把握现在。对于我来说，是时候干应该干的事情了。话说，君子务本，本立而道生。而且也应该找时间锻炼身体了&#8211;很久没有跑步了！</p>
+<p>周六和老爸聊天，谈到如何防止孩子近视。老爸观点是，从孩子很小就做起，走一步看一步，不好高骛远，但一定要把握现在。对于我来说，是时候干应该干的事情了。话说，君子务本，本立而道生。而且也应该找时间锻炼身体了--很久没有跑步了！</p>
 
 <p>希望本周可以：</p>
 
@@ -34,15 +34,6 @@
 
 
 <p>恩，加油！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://10000h.github.com/blog/2012/07/23/test/"/>
-    <updated>2012-07-23T16:09:00+01:00</updated>
-    <id>http://10000h.github.com/blog/2012/07/23/test</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
