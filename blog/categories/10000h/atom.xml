@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 10000h | 10000 hours]]></title>
   <link href="http://10000h.github.com/blog/categories/10000h/atom.xml" rel="self"/>
   <link href="http://10000h.github.com/"/>
-  <updated>2012-07-25T18:43:47+01:00</updated>
+  <updated>2012-07-26T14:12:48+01:00</updated>
   <id>http://10000h.github.com/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
-    <link href="http://10000h.github.com/blog/2012/07/23/hello/"/>
+    <link href="http://10000h.github.com/blog/hello/"/>
     <updated>2012-07-23T17:01:00+01:00</updated>
-    <id>http://10000h.github.com/blog/2012/07/23/hello</id>
+    <id>http://10000h.github.com/blog/hello</id>
     <content type="html"><![CDATA[<p>折腾了好几天，终于建立起了这个博客！基本是参考<a href="http://gujiaxi.github.com/blog/2012/02/15/how-to-install-octopress-on-ubuntu-11-dot-04-and-deploy-on-github/">这里</a>以及google。在google中，答案很多是来自<a href="http://stackoverflow.com/">stackoverflow</a>。不明白的地方还很多，这需要将来慢慢熟悉了。</p>
 
 <p>上周一和周二，发现自己一直想要证明的定理其实可以在书里找到！剩下的事情就是要用它做自己的工作了。然而接下来的日子里没有动笔。之后就开始试图建立此站。周六出去玩了一天，周日休息了一天。</p>
