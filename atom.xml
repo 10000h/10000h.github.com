@@ -4,7 +4,7 @@
   <title><![CDATA[10000 hours]]></title>
   <link href="http://10000h.github.com/atom.xml" rel="self"/>
   <link href="http://10000h.github.com/"/>
-  <updated>2012-08-12T16:04:07+01:00</updated>
+  <updated>2012-08-12T16:33:48+01:00</updated>
   <id>http://10000h.github.com/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Just one habit]]></title>
+    <link href="http://10000h.github.com/blog/just-one-habit/"/>
+    <updated>2012-08-12T16:11:00+01:00</updated>
+    <id>http://10000h.github.com/blog/just-one-habit</id>
+    <content type="html"><![CDATA[<p>在过去的两周里唯一做到的是每周能够至少锻炼两次。然而未能够进入研究状态。过去的两周里准备了一个面试。面试结果一般，但非常希望能够进入
+第二轮。</p>
+
+<p>本周只希望自己能够养成一个习惯，那就是午饭前不上网！干正经事情！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[仅得中下]]></title>
