@@ -4,7 +4,7 @@
   <title><![CDATA[10000 hours]]></title>
   <link href="http://10000h.github.com/atom.xml" rel="self"/>
   <link href="http://10000h.github.com/"/>
-  <updated>2012-08-21T11:14:32+01:00</updated>
+  <updated>2012-09-01T11:21:41-05:00</updated>
   <id>http://10000h.github.com/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -14,9 +14,18 @@
 
   
   <entry>
+    <title type="html"><![CDATA[沟通改变世界]]></title>
+    <link href="http://10000h.github.com/blog/gou-tong-gai-bian-shi-jie/"/>
+    <updated>2012-08-29T11:20:00-05:00</updated>
+    <id>http://10000h.github.com/blog/gou-tong-gai-bian-shi-jie</id>
+    <content type="html"><![CDATA[<p>坐在UIUC的一个图书馆里，周围坐着各种肤色的人。黄种人居多，其中又以中国人居多。这些中国人中，很多是本科生。不管他们是不是某二代，他们走出了国门。他们比国内人们更好的与外面的世界进行沟通。以前看过一本书《理性乐观派:一部人类经济进步史》，它表明：人类的繁荣来自个人为自己效力。始于十多万年前的交换和专业分工习惯，创造出了加速改善人类生活水平的集体大脑。它花了很大的篇幅来论证沟通才能够不断进步。与之相关的词汇还有：开放，竞争，交流，等等。看到这帮中国本科生，让我对中国的未来依然充满信心。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[柏林一夜]]></title>
     <link href="http://10000h.github.com/blog/one-night-in-berlin/"/>
-    <updated>2012-08-19T17:29:00+01:00</updated>
+    <updated>2012-08-19T17:29:00-05:00</updated>
     <id>http://10000h.github.com/blog/one-night-in-berlin</id>
     <content type="html"><![CDATA[<p>德国小镇的会议结束了，我返回了柏林。非常热。在hostel看了一会儿Fiftey Shades的第二部，然后就出来，不远处有个广场，旁边矗立着电视塔。广场上有喷泉，人们在那里戏水。美好的生活。吃了个甜筒，买了一桶水（再三和店员强调不含二氧化碳），然后就在路边的椅子上读完第二部。普通女和高帅富历经坎坷，终成眷属。然而事情却远远没有结束。欲知详情，需看第三部。</p>
 
@@ -29,7 +38,7 @@
   <entry>
     <title type="html"><![CDATA[How to nuture your daughter]]></title>
     <link href="http://10000h.github.com/blog/how-to-nuture-your-daughter/"/>
-    <updated>2012-08-17T19:07:00+01:00</updated>
+    <updated>2012-08-17T19:07:00-05:00</updated>
     <id>http://10000h.github.com/blog/how-to-nuture-your-daughter</id>
     <content type="html"><![CDATA[<p>如何培养你的女儿？这是我从昨天开始读，今天读完Fifty Shades of Grey的第一部后想到的问题。书中女主人公安娜，一个很普通的女孩，与一个有心理怪癖（确切讲是性需求异于常人）的高帅富相爱。普通女将处女之身献给高帅富，换来高帅富绵绵的爱。尽管结局有点悲伤，但没有结束，因为它只是第一部。或许因为我读书很少，但是奇怪的是我读到的英文爱情小说大多数是普通女拯救高帅富！例如《简爱》和《爱情故事》。虽然本部书还没有到了拯救的地步，但是无论如何高帅富已经爱了，虽然他还没能和安娜做到天衣无缝（compatible）。</p>
 
@@ -42,7 +51,7 @@
   <entry>
     <title type="html"><![CDATA[初到德国]]></title>
     <link href="http://10000h.github.com/blog/chu-dao-de-guo/"/>
-    <updated>2012-08-15T18:45:00+01:00</updated>
+    <updated>2012-08-15T18:45:00-05:00</updated>
     <id>http://10000h.github.com/blog/chu-dao-de-guo</id>
     <content type="html"><![CDATA[<p>早上发现忘记拿书了，于是急忙去了办公室。然后再去车站。飞机准时起飞。但是竟然连一半都没有坐满。开心的是可以躺下，然而不幸的是笔袋落下忘记拿了，损失了所有的三支笔和10镑左右的硬币。等想起来的时候，我Tegel机场正在等公交（机场有人会给你安排好你目的地的路线，很不错）。对了，过海关很快，没有长队，海关用中文说了声“你好”，然后问我待多久就过了。但是等行李依然等了很久。</p>
 
@@ -63,7 +72,7 @@
   <entry>
     <title type="html"><![CDATA[Just one habit]]></title>
     <link href="http://10000h.github.com/blog/just-one-habit/"/>
-    <updated>2012-08-12T16:11:00+01:00</updated>
+    <updated>2012-08-12T16:11:00-05:00</updated>
     <id>http://10000h.github.com/blog/just-one-habit</id>
     <content type="html"><![CDATA[<p>在过去的两周里唯一做到的是每周能够至少锻炼两次。然而未能够进入研究状态。过去的两周里准备了一个面试，读了Heard on the Street书的大部分内容。面试结果一般，但非常希望能够进入
 第二轮。面试的第一个问题，how many vets are there in London? 起初我以为是vegeterian。后来我才逐渐明白什么是vet。我从伦敦人口算起，估计了有800家宠物医院。面试官说差不多，大约是500家。
@@ -80,7 +89,7 @@
   <entry>
     <title type="html"><![CDATA[仅得中下]]></title>
     <link href="http://10000h.github.com/blog/jin-de-zhong-xia/"/>
-    <updated>2012-07-30T16:57:00+01:00</updated>
+    <updated>2012-07-30T16:57:00-05:00</updated>
     <id>http://10000h.github.com/blog/jin-de-zhong-xia</id>
     <content type="html"><![CDATA[<p>在过去的一周里，仅仅完成上周计划中的锻炼部分（正好两次）。研究部分，将原论文导进了Lyx，其余没有进步。上网依然很严重。</p>
 
@@ -97,7 +106,7 @@
   <entry>
     <title type="html"><![CDATA[武者，舞者]]></title>
     <link href="http://10000h.github.com/blog/wu-zhe-%2Cwu-zhe/"/>
-    <updated>2012-07-27T09:47:00+01:00</updated>
+    <updated>2012-07-27T09:47:00-05:00</updated>
     <id>http://10000h.github.com/blog/wu-zhe-,wu-zhe</id>
     <content type="html"><![CDATA[<p>今天早上起来第一次复习了一下武术基本功。这距我上次练武术已经将近两年了。上次我是在家乡的体育场里，练习了绵掌和六腿，姐姐帮我摄像。今天在异国他乡，清晨，慢跑出汗后，压腿。然后练习踢腿等。身体僵化得厉害。但是不敢下猛劲，害怕受伤。也没有做腾空的动作。希望以后能够每周有几次练习，让自己慢慢恢复。</p>
 
@@ -108,7 +117,7 @@
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
     <link href="http://10000h.github.com/blog/hello/"/>
-    <updated>2012-07-23T17:01:00+01:00</updated>
+    <updated>2012-07-23T17:01:00-05:00</updated>
     <id>http://10000h.github.com/blog/hello</id>
     <content type="html"><![CDATA[<p>折腾了好几天，终于建立起了这个博客！基本是参考<a href="http://gujiaxi.github.com/blog/2012/02/15/how-to-install-octopress-on-ubuntu-11-dot-04-and-deploy-on-github/">这里</a>以及google。在google中，答案很多是来自<a href="http://stackoverflow.com/">stackoverflow</a>。不明白的地方还很多，这需要将来慢慢熟悉了。</p>
 
@@ -132,7 +141,7 @@
   <entry>
     <title type="html"><![CDATA[test]]></title>
     <link href="http://10000h.github.com/blog/test/"/>
-    <updated>2012-07-23T16:09:00+01:00</updated>
+    <updated>2012-07-23T16:09:00-05:00</updated>
     <id>http://10000h.github.com/blog/test</id>
     <content type="html"><![CDATA[
 ]]></content>
