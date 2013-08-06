@@ -4,7 +4,7 @@
   <title><![CDATA[10000 hours]]></title>
   <link href="http://10000h.github.com/atom.xml" rel="self"/>
   <link href="http://10000h.github.com/"/>
-  <updated>2013-08-06T11:00:08+01:00</updated>
+  <updated>2013-08-06T11:02:47+01:00</updated>
   <id>http://10000h.github.com/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -26,6 +26,10 @@ am really good at and really into. Definitely I will close this blog.</p>
 <p>I will try to clone it to my mac air (Now it&#8217;s in my thinkpad). So it might be
 the last time I blog in my thinkpad. Hope it works well so that I can continue to blog
 here.</p>
+
+<p>P.S. There are lots of things I could not figure out about octopress.
+The first is that it seems that I could not change the date of posts I created (unless
+I delete the post and create a new one).</p>
 ]]></content>
   </entry>
   
