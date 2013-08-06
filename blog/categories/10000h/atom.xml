@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 10000h | 10000 hours]]></title>
-  <link href="http://10000h.github.com/blog/categories/10000h/atom.xml" rel="self"/>
-  <link href="http://10000h.github.com/"/>
-  <updated>2013-08-06T11:25:09+01:00</updated>
-  <id>http://10000h.github.com/</id>
+  <title><![CDATA[Category: 10000h | A Trivial Place]]></title>
+  <link href="http://10000h.github.io/blog/categories/10000h/atom.xml" rel="self"/>
+  <link href="http://10000h.github.io/"/>
+  <updated>2013-08-06T11:51:57+01:00</updated>
+  <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Just one habit]]></title>
-    <link href="http://10000h.github.com/blog/just-one-habit/"/>
+    <link href="http://10000h.github.io/blog/just-one-habit/"/>
     <updated>2012-08-12T16:11:00+01:00</updated>
-    <id>http://10000h.github.com/blog/just-one-habit</id>
+    <id>http://10000h.github.io/blog/just-one-habit</id>
     <content type="html"><![CDATA[<p>在过去的两周里唯一做到的是每周能够至少锻炼两次。然而未能够进入研究状态。过去的两周里准备了一个面试，读了Heard on the Street书的大部分内容。面试结果一般，但非常希望能够进入
 第二轮。面试的第一个问题，how many vets are there in London? 起初我以为是vegeterian。后来我才逐渐明白什么是vet。我从伦敦人口算起，估计了有800家宠物医院。面试官说差不多，大约是500家。
 后面问道volatility smile与stock price分布的skew时，我就有点晕了。需要补充一下这方面的知识了。</p>
@@ -32,9 +32,9 @@
   
   <entry>
     <title type="html"><![CDATA[仅得中下]]></title>
-    <link href="http://10000h.github.com/blog/jin-de-zhong-xia/"/>
+    <link href="http://10000h.github.io/blog/jin-de-zhong-xia/"/>
     <updated>2012-07-30T16:57:00+01:00</updated>
-    <id>http://10000h.github.com/blog/jin-de-zhong-xia</id>
+    <id>http://10000h.github.io/blog/jin-de-zhong-xia</id>
     <content type="html"><![CDATA[<p>在过去的一周里，仅仅完成上周计划中的锻炼部分（正好两次）。研究部分，将原论文导进了Lyx，其余没有进步。上网依然很严重。</p>
 
 <p>周二去申请德国申根签证。和安装这个博客得到的教训一样，那就是不要投机取巧！博客要按照官方的流程来，遇到问题再查google。签证要按照人家列出的材料准备。例如学生身份证明是original的，那就不能够是扫描的！</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[武者，舞者]]></title>
-    <link href="http://10000h.github.com/blog/wu-zhe-%2Cwu-zhe/"/>
+    <link href="http://10000h.github.io/blog/wu-zhe-%2Cwu-zhe/"/>
     <updated>2012-07-27T09:47:00+01:00</updated>
-    <id>http://10000h.github.com/blog/wu-zhe-,wu-zhe</id>
+    <id>http://10000h.github.io/blog/wu-zhe-,wu-zhe</id>
     <content type="html"><![CDATA[<p>今天早上起来第一次复习了一下武术基本功。这距我上次练武术已经将近两年了。上次我是在家乡的体育场里，练习了绵掌和六腿，姐姐帮我摄像。今天在异国他乡，清晨，慢跑出汗后，压腿。然后练习踢腿等。身体僵化得厉害。但是不敢下猛劲，害怕受伤。也没有做腾空的动作。希望以后能够每周有几次练习，让自己慢慢恢复。</p>
 
 <p>我的一个朋友，矢志不渝的练习钢琴。他自称天赋不好，唯有勤练方可弥补。早晚各一个小时，风雨无阻。令我感动。在这过去的两年里，我彻底迷失了，变得随波逐流。朋友的行动让我醒悟，what defines you? 是文武结合，是文明之精神，野蛮之体魄。我热爱武术，但是自己天赋差，动作不漂亮。但又如何？李小龙曾说，功夫是挑战自我的极限。我幼时学习的是长拳，讲究舒展，干脆，动静结合，是为之美。而其实用性说实话很差。因此我更倾向于认为它是一种广义上的舞蹈。我要一直武下去，舞下去。</p>
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
-    <link href="http://10000h.github.com/blog/hello/"/>
+    <link href="http://10000h.github.io/blog/hello/"/>
     <updated>2012-07-23T17:01:00+01:00</updated>
-    <id>http://10000h.github.com/blog/hello</id>
+    <id>http://10000h.github.io/blog/hello</id>
     <content type="html"><![CDATA[<p>折腾了好几天，终于建立起了这个博客！基本是参考<a href="http://gujiaxi.github.com/blog/2012/02/15/how-to-install-octopress-on-ubuntu-11-dot-04-and-deploy-on-github/">这里</a>以及google。在google中，答案很多是来自<a href="http://stackoverflow.com/">stackoverflow</a>。不明白的地方还很多，这需要将来慢慢熟悉了。</p>
 
 <p>上周一和周二，发现自己一直想要证明的定理其实可以在书里找到！剩下的事情就是要用它做自己的工作了。然而接下来的日子里没有动笔。之后就开始试图建立此站。周六出去玩了一天，周日休息了一天。</p>

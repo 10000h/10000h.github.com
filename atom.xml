@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[10000 hours]]></title>
-  <link href="http://10000h.github.com/atom.xml" rel="self"/>
-  <link href="http://10000h.github.com/"/>
-  <updated>2013-08-06T11:25:09+01:00</updated>
-  <id>http://10000h.github.com/</id>
+  <title><![CDATA[A Trivial Place]]></title>
+  <link href="http://10000h.github.io/atom.xml" rel="self"/>
+  <link href="http://10000h.github.io/"/>
+  <updated>2013-08-06T11:51:57+01:00</updated>
+  <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
     
@@ -15,11 +15,11 @@
   
   <entry>
     <title type="html"><![CDATA[I am back]]></title>
-    <link href="http://10000h.github.com/blog/i-am-back/"/>
+    <link href="http://10000h.github.io/blog/i-am-back/"/>
     <updated>2013-08-06T10:59:00+01:00</updated>
-    <id>http://10000h.github.com/blog/i-am-back</id>
+    <id>http://10000h.github.io/blog/i-am-back</id>
     <content type="html"><![CDATA[<p>Almost one year since I blogged last time. Lots of things happened
-during this year. I somehow get to know more about myself but still struggling with
+during this year. I somehow get to know more about myself but still struggle with
 some of my bad habits like addiction to internet, etc.</p>
 
 <p>Recently I started a new blog on wordpress.
@@ -36,18 +36,18 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[沟通改变世界]]></title>
-    <link href="http://10000h.github.com/blog/gou-tong-gai-bian-shi-jie/"/>
+    <link href="http://10000h.github.io/blog/gou-tong-gai-bian-shi-jie/"/>
     <updated>2012-08-29T11:20:00+01:00</updated>
-    <id>http://10000h.github.com/blog/gou-tong-gai-bian-shi-jie</id>
+    <id>http://10000h.github.io/blog/gou-tong-gai-bian-shi-jie</id>
     <content type="html"><![CDATA[<p>坐在UIUC的一个图书馆里，周围坐着各种肤色的人。黄种人居多，其中又以中国人居多。这些中国人中，很多是本科生。不管他们是不是某二代，他们走出了国门。他们比国内人们更好的与外面的世界进行沟通。以前看过一本书《理性乐观派:一部人类经济进步史》，它表明：人类的繁荣来自个人为自己效力。始于十多万年前的交换和专业分工习惯，创造出了加速改善人类生活水平的集体大脑。它花了很大的篇幅来论证沟通才能够不断进步。与之相关的词汇还有：开放，竞争，交流，等等。看到这帮中国本科生，让我对中国的未来依然充满信心。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[柏林一夜]]></title>
-    <link href="http://10000h.github.com/blog/one-night-in-berlin/"/>
+    <link href="http://10000h.github.io/blog/one-night-in-berlin/"/>
     <updated>2012-08-19T17:29:00+01:00</updated>
-    <id>http://10000h.github.com/blog/one-night-in-berlin</id>
+    <id>http://10000h.github.io/blog/one-night-in-berlin</id>
     <content type="html"><![CDATA[<p>德国小镇的会议结束了，我返回了柏林。非常热。在hostel看了一会儿Fiftey Shades的第二部，然后就出来，不远处有个广场，旁边矗立着电视塔。广场上有喷泉，人们在那里戏水。美好的生活。吃了个甜筒，买了一桶水（再三和店员强调不含二氧化碳），然后就在路边的椅子上读完第二部。普通女和高帅富历经坎坷，终成眷属。然而事情却远远没有结束。欲知详情，需看第三部。</p>
 
 <p>傍晚8点多，休息的差不多了。开始从柏林电视塔向西，边走边拍。首先看到的是柏林大教堂，非常宏伟。绿色的圆拱形屋顶（估计是铜绿），夹杂黑色的土黄色墙壁和石柱，暗示着它历经沧桑。教堂北边是一座博物馆，最震撼的是它门前左右两座雕塑，都是人骑着马猎杀狮子。一边的雄狮仰面被踏于马下，勇士高举长矛，朝向雄狮。另一边，雌狮扑在马脖子上，已经咬在马脖子上。复前行，路过奔驰公司的大楼，还有前总理Willy Brandt的博物馆。最后走到了Brandenburg Gate。在附近，正在放映着一部关于柏林历史的纪录片。放到因柏林墙倒塌人们欢呼时，我热泪盈眶。多么期待这样的一天能够发生在中国！后来又看了一遍。</p>
@@ -58,9 +58,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[How to nuture your daughter]]></title>
-    <link href="http://10000h.github.com/blog/how-to-nuture-your-daughter/"/>
+    <link href="http://10000h.github.io/blog/how-to-nuture-your-daughter/"/>
     <updated>2012-08-17T19:07:00+01:00</updated>
-    <id>http://10000h.github.com/blog/how-to-nuture-your-daughter</id>
+    <id>http://10000h.github.io/blog/how-to-nuture-your-daughter</id>
     <content type="html"><![CDATA[<p>如何培养你的女儿？这是我从昨天开始读，今天读完Fifty Shades of Grey的第一部后想到的问题。书中女主人公安娜，一个很普通的女孩，与一个有心理怪癖（确切讲是性需求异于常人）的高帅富相爱。普通女将处女之身献给高帅富，换来高帅富绵绵的爱。尽管结局有点悲伤，但没有结束，因为它只是第一部。或许因为我读书很少，但是奇怪的是我读到的英文爱情小说大多数是普通女拯救高帅富！例如《简爱》和《爱情故事》。虽然本部书还没有到了拯救的地步，但是无论如何高帅富已经爱了，虽然他还没能和安娜做到天衣无缝（compatible）。</p>
 
 <p>回到正题，如何培养女儿。首先明确目标，将女儿培养成一个什么样的人？我们都希望自己的女儿有个好的归宿。那么目标其实就是有个好的归宿的人。这样的人有什么特征呢？首先是不是特别漂亮，当然也不是特别丑。这三部书中的女主角都是这样的，很普通。然而她们的精神气质为她们的相貌增色不少。其次，也是最重要最关键的，那就是self-contained and down-to-earth。具体来讲，她们独立，踏实，不为自己卑微的地位而怨恨，反而为改善自己的境遇而奋斗。但是她们却不是好高骛远，她们没有过高的物质追求，能够温饱，有知心朋友，足矣！她们活在当下，有怜悯之心，有是非观念。她们待人平等，不畏强权，敢于跟随自己的内心（follow the heart）。当她们遇到自己合适的Mr Right的时候，能够适当处理，无论他是屌丝还是高帅富。如果他是屌丝，那么这样的爱情归于平淡，因此不适合写成小说，但这不代表她和他不幸福。如果她碰到的是高帅富，她同样能够得到幸福。此时往往有可能大书特书。前不久在网上读过一篇文章，讲女儿总是排在班里的20多名，但是深得同学喜爱。这样的女儿，很看好她能够去拯救一个高帅富！</p>
@@ -71,9 +71,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[初到德国]]></title>
-    <link href="http://10000h.github.com/blog/chu-dao-de-guo/"/>
+    <link href="http://10000h.github.io/blog/chu-dao-de-guo/"/>
     <updated>2012-08-15T18:45:00+01:00</updated>
-    <id>http://10000h.github.com/blog/chu-dao-de-guo</id>
+    <id>http://10000h.github.io/blog/chu-dao-de-guo</id>
     <content type="html"><![CDATA[<p>早上发现忘记拿书了，于是急忙去了办公室。然后再去车站。飞机准时起飞。但是竟然连一半都没有坐满。开心的是可以躺下，然而不幸的是笔袋落下忘记拿了，损失了所有的三支笔和10镑左右的硬币。等想起来的时候，我Tegel机场正在等公交（机场有人会给你安排好你目的地的路线，很不错）。对了，过海关很快，没有长队，海关用中文说了声“你好”，然后问我待多久就过了。但是等行李依然等了很久。</p>
 
 <p>倒了两趟公交，然后一趟火车，到达Tegel火车站（与Tegel机场相距甚远！）。期间从公交站走到火车站费了点周折。问了一位大妈。我说英语，她德语回答。竟然基本沟通到位！然而她并不知道火车站，但是后来我发现了指示牌，于是很顺利找到火车站从而到达Tegel车站。因为在网上已经定好了车票，直接坐到Berlin Gesundbrunnen。在那里等待前往Wittenberg的火车。期间去了两趟超市买了些吃的，很便宜。下午3点半火车来了。车上基本没人，于是挑了个舒服宽敞的位置坐下。后来发现在行李架边缘处显示该座位是否被预订。好座位基本被预订了。于是找没被预订的坐下。火车到下个车站的时候，来了很多人，座位都满了。4点半到达Wittenberg。下车，基本顺利的找到住的地方，叫Leucorea。它是个研究机构，有悠久的历史。另外Wittenberg这是宗教改革家马丁路德发表他著名的理论“95条”的地方。</p>
@@ -92,9 +92,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[Just one habit]]></title>
-    <link href="http://10000h.github.com/blog/just-one-habit/"/>
+    <link href="http://10000h.github.io/blog/just-one-habit/"/>
     <updated>2012-08-12T16:11:00+01:00</updated>
-    <id>http://10000h.github.com/blog/just-one-habit</id>
+    <id>http://10000h.github.io/blog/just-one-habit</id>
     <content type="html"><![CDATA[<p>在过去的两周里唯一做到的是每周能够至少锻炼两次。然而未能够进入研究状态。过去的两周里准备了一个面试，读了Heard on the Street书的大部分内容。面试结果一般，但非常希望能够进入
 第二轮。面试的第一个问题，how many vets are there in London? 起初我以为是vegeterian。后来我才逐渐明白什么是vet。我从伦敦人口算起，估计了有800家宠物医院。面试官说差不多，大约是500家。
 后面问道volatility smile与stock price分布的skew时，我就有点晕了。需要补充一下这方面的知识了。</p>
@@ -109,9 +109,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[仅得中下]]></title>
-    <link href="http://10000h.github.com/blog/jin-de-zhong-xia/"/>
+    <link href="http://10000h.github.io/blog/jin-de-zhong-xia/"/>
     <updated>2012-07-30T16:57:00+01:00</updated>
-    <id>http://10000h.github.com/blog/jin-de-zhong-xia</id>
+    <id>http://10000h.github.io/blog/jin-de-zhong-xia</id>
     <content type="html"><![CDATA[<p>在过去的一周里，仅仅完成上周计划中的锻炼部分（正好两次）。研究部分，将原论文导进了Lyx，其余没有进步。上网依然很严重。</p>
 
 <p>周二去申请德国申根签证。和安装这个博客得到的教训一样，那就是不要投机取巧！博客要按照官方的流程来，遇到问题再查google。签证要按照人家列出的材料准备。例如学生身份证明是original的，那就不能够是扫描的！</p>
@@ -126,9 +126,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[武者，舞者]]></title>
-    <link href="http://10000h.github.com/blog/wu-zhe-%2Cwu-zhe/"/>
+    <link href="http://10000h.github.io/blog/wu-zhe-%2Cwu-zhe/"/>
     <updated>2012-07-27T09:47:00+01:00</updated>
-    <id>http://10000h.github.com/blog/wu-zhe-,wu-zhe</id>
+    <id>http://10000h.github.io/blog/wu-zhe-,wu-zhe</id>
     <content type="html"><![CDATA[<p>今天早上起来第一次复习了一下武术基本功。这距我上次练武术已经将近两年了。上次我是在家乡的体育场里，练习了绵掌和六腿，姐姐帮我摄像。今天在异国他乡，清晨，慢跑出汗后，压腿。然后练习踢腿等。身体僵化得厉害。但是不敢下猛劲，害怕受伤。也没有做腾空的动作。希望以后能够每周有几次练习，让自己慢慢恢复。</p>
 
 <p>我的一个朋友，矢志不渝的练习钢琴。他自称天赋不好，唯有勤练方可弥补。早晚各一个小时，风雨无阻。令我感动。在这过去的两年里，我彻底迷失了，变得随波逐流。朋友的行动让我醒悟，what defines you? 是文武结合，是文明之精神，野蛮之体魄。我热爱武术，但是自己天赋差，动作不漂亮。但又如何？李小龙曾说，功夫是挑战自我的极限。我幼时学习的是长拳，讲究舒展，干脆，动静结合，是为之美。而其实用性说实话很差。因此我更倾向于认为它是一种广义上的舞蹈。我要一直武下去，舞下去。</p>
@@ -137,9 +137,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
-    <link href="http://10000h.github.com/blog/hello/"/>
+    <link href="http://10000h.github.io/blog/hello/"/>
     <updated>2012-07-23T17:01:00+01:00</updated>
-    <id>http://10000h.github.com/blog/hello</id>
+    <id>http://10000h.github.io/blog/hello</id>
     <content type="html"><![CDATA[<p>折腾了好几天，终于建立起了这个博客！基本是参考<a href="http://gujiaxi.github.com/blog/2012/02/15/how-to-install-octopress-on-ubuntu-11-dot-04-and-deploy-on-github/">这里</a>以及google。在google中，答案很多是来自<a href="http://stackoverflow.com/">stackoverflow</a>。不明白的地方还很多，这需要将来慢慢熟悉了。</p>
 
 <p>上周一和周二，发现自己一直想要证明的定理其实可以在书里找到！剩下的事情就是要用它做自己的工作了。然而接下来的日子里没有动笔。之后就开始试图建立此站。周六出去玩了一天，周日休息了一天。</p>
@@ -161,9 +161,9 @@ here.</p>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://10000h.github.com/blog/test/"/>
+    <link href="http://10000h.github.io/blog/test/"/>
     <updated>2012-07-23T16:09:00+01:00</updated>
-    <id>http://10000h.github.com/blog/test</id>
+    <id>http://10000h.github.io/blog/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
