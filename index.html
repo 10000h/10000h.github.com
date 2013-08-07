@@ -115,15 +115,19 @@
 于是开始各种搜（其实选择关键词也得有技巧，octopress multiple machine），发现了<a href="http://jamessann.com/2013/01/17/using-octopress-on-multiple-machines-for-mac-os-x/">一个博客（3）</a>
 上面有如何建立SSH key。然而问题又出现了，当我按照<a href="https://help.github.com/articles/generating-ssh-keys">官网</a>
 走到第三步的时候，需要有apt-get和xclip，mac上都木有。于是又开始搜索，为此按照了Mac Ports和Fink（而
-为了Fink又按照了X11），然后下载了xclip。再回过来依然不行。绝望中发现一个简单的命令
-<code>cat file_to_copy | pbcopy</code>
-就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了！查看version，竟然回到最原始的！
+为了Fink又安装了X11），然后下载了xclip。再回过来依然不行。绝望中发现一个简单的命令</p>
+
+<p><code>cat file_to_copy | pbcopy</code></p>
+
+<p>就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了！查看version，竟然回到最原始的！
 觉得不可思议！于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
 你需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！</p>
 
-<p>于是决定放弃rvm，而按照octopress官网的rbenv开始装。然后此时已经是晚上，人困眼乏。竟然吧一行命令
-<code>echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.bash_profile</code>
-中的一个美元省去，而第二个美元写成S!结果悲剧了！之前那些简单的命令，例如 <code>ls</code> 或者 <code>rm</code> 都被告知
+<p>于是决定放弃rvm，而按照octopress官网的rbenv开始装。然后此时已经是晚上，人困眼乏。竟然吧一行命令</p>
+
+<p><code>echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.bash_profile</code></p>
+
+<p>中的一个美元省去，而第二个美元写成S!结果悲剧了！之前那些简单的命令，例如 <code>ls</code> 或者 <code>rm</code> 都被告知
 command not found。</p>
 </div>
   
