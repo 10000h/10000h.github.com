@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | A Trivial Place]]></title>
   <link href="http://10000h.github.io/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://10000h.github.io/"/>
-  <updated>2013-08-08T09:58:26+01:00</updated>
+  <updated>2013-08-08T10:03:34+01:00</updated>
   <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -18,11 +18,11 @@
     <link href="http://10000h.github.io/blog/ding-zhi-octopress/"/>
     <updated>2013-08-08T09:32:00+01:00</updated>
     <id>http://10000h.github.io/blog/ding-zhi-octopress</id>
-    <content type="html"><![CDATA[<p>今后将时不时的改善自己的博客。记录在这里吧。</p>
+    <content type="html"><![CDATA[<p>今后将时不时的改善自己博客界面。记录在这里吧。</p>
 
 <p>首先是把首页上每篇博客头上 XX comments and XX reactions
-可以去掉。这个在 {OCTOPRESS_HOME}/source/_includes/article.html。
-最简单的做法就是把相关内容注释掉（html注释用 '&lt;'!-- --'>'）。.. &amp;lt is &lt; &amp;mt is >.</p>
+去掉（个人觉得很丑）。这个在 {OCTOPRESS_HOME}/source/_includes/article.html。
+最简单的做法就是把相关内容注释掉（html注释用 &amp;lt !-- -- &amp;gt）。.. &amp;lt is &lt; &amp;mt is >.</p>
 
 <p>其次是让博客中的链接在新窗口打开。</p>
 ]]></content>
