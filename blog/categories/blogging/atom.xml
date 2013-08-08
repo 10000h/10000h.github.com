@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | A Trivial Place]]></title>
   <link href="http://10000h.github.io/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://10000h.github.io/"/>
-  <updated>2013-08-08T16:27:19+01:00</updated>
+  <updated>2013-08-08T16:29:22+01:00</updated>
   <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -83,8 +83,8 @@ command not found。</p>
 <p>重装系统的时候需要先抹掉之前的系统，然后再reinstall！</p>
 
 <p>然后就开始重装系统，装上一些软件，尤其是Xcode，非常重要。然后按照<a href="http://ruby-china.org/wiki/install_ruby_guide">这个网页</a>
-上的用rvm装了ruby 1.9.3。 曾一度出现错误status 51，网上搜了一圈发现其余人木有类似问题。后来才发现是
-网断了。很快装好ruby，装好SSH，然后克隆，一切OK.</p>
+上的用rvm装了ruby 1.9.3。 曾一度出现错误status 51，网上搜了一圈发现其余人木有类似问题。
+后来才发现是网断了。很快装好ruby，装好SSH，然后克隆，一切OK.</p>
 ]]></content>
   </entry>
   
