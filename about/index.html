@@ -29,7 +29,25 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+<script type="text/javascript">
 
+function addBlankTargetForLinks () {
+
+  $('a[href^="http"]').each(function(){
+
+      $(this).attr('target', '_blank');
+
+  });
+
+}
+
+$(document).bind('DOMNodeInserted', function(event) {
+
+  addBlankTargetForLinks();
+
+});
+
+</script>
   
 
 </head> 
@@ -117,6 +135,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/ding-zhi-octopress/">定制Octopress</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/the-first-post-on-mac/">The First Post on Mac</a>
       </li>
     
@@ -130,10 +152,6 @@
     
       <li class="post">
         <a href="/blog/one-night-in-berlin/">柏林一夜</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/how-to-nuture-your-daughter/">How to nuture your daughter</a>
       </li>
     
   </ul>

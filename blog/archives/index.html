@@ -9,11 +9,11 @@
   <meta name="author" content="w">
 
   
-  <meta name="description" content="2013 The First Post on Mac
+  <meta name="description" content="2013 定制Octopress
+Aug 08 2013 posted in blogging The First Post on Mac
 Aug 07 2013 posted in blogging I am back
 Aug 06 2013 2012 沟通改变世界
-Aug 29 2012 柏林一夜
-Aug 19 2012 posted in travelling How to &hellip;">
+Aug 29 2012 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -33,7 +33,25 @@ Aug 19 2012 posted in travelling How to &hellip;">
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+<script type="text/javascript">
 
+function addBlankTargetForLinks () {
+
+  $('a[href^="http"]').each(function(){
+
+      $(this).attr('target', '_blank');
+
+  });
+
+}
+
+$(document).bind('DOMNodeInserted', function(event) {
+
+  addBlankTargetForLinks();
+
+});
+
+</script>
   
 
 </head> 
@@ -77,6 +95,20 @@ Aug 19 2012 posted in travelling How to &hellip;">
 
   
   <h2>2013</h2>
+
+<article>
+  
+<h1><a href="/blog/ding-zhi-octopress/">定制Octopress</a></h1>
+<time datetime="2013-08-08T09:32:00+01:00" pubdate><span class='month'>Aug</span> <span class='day'>08</span> <span class='year'>2013</span></time>
+
+<footer>
+  <span class="categories">posted in <a class='category' href='/blog/categories/blogging/'>blogging</a></span>
+</footer>
+
+
+</article>
+
+
 
 <article>
   
@@ -235,6 +267,10 @@ Aug 19 2012 posted in travelling How to &hellip;">
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/ding-zhi-octopress/">定制Octopress</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/the-first-post-on-mac/">The First Post on Mac</a>
       </li>
     
@@ -248,10 +284,6 @@ Aug 19 2012 posted in travelling How to &hellip;">
     
       <li class="post">
         <a href="/blog/one-night-in-berlin/">柏林一夜</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/how-to-nuture-your-daughter/">How to nuture your daughter</a>
       </li>
     
   </ul>

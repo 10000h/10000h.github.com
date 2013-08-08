@@ -31,7 +31,25 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+<script type="text/javascript">
 
+function addBlankTargetForLinks () {
+
+  $('a[href^="http"]').each(function(){
+
+      $(this).attr('target', '_blank');
+
+  });
+
+}
+
+$(document).bind('DOMNodeInserted', function(event) {
+
+  addBlankTargetForLinks();
+
+});
+
+</script>
   
 
 </head> 
@@ -116,9 +134,9 @@
 
 <p><code>cat file_to_copy | pbcopy</code></p>
 
-<p>就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了！查看version，竟然回到最原始的！
-觉得不可思议！于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
-你需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！</p>
+<p>就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了，查看version，竟然回到最原始的！
+于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
+需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！</p>
 
 <p>于是决定放弃rvm，而按照octopress官网的rbenv开始装。然而此时我早已是人困眼乏。不留神把一行命令</p>
 
@@ -190,6 +208,8 @@ command not found。</p>
         <a class="basic-alignment left" href="/blog/i-am-back/" title="Previous Post: I am back">&laquo; I am back</a>
       
       
+        <a class="basic-alignment right" href="/blog/ding-zhi-octopress/" title="Next Post: 定制Octopress">定制Octopress &raquo;</a>
+      
     </p>
   </footer>
 </article>
@@ -209,6 +229,10 @@ command not found。</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/ding-zhi-octopress/">定制Octopress</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/the-first-post-on-mac/">The First Post on Mac</a>
       </li>
     
@@ -222,10 +246,6 @@ command not found。</p>
     
       <li class="post">
         <a href="/blog/one-night-in-berlin/">柏林一夜</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/how-to-nuture-your-daughter/">How to nuture your daughter</a>
       </li>
     
   </ul>

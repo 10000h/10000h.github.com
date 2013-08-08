@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | A Trivial Place]]></title>
   <link href="http://10000h.github.io/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://10000h.github.io/"/>
-  <updated>2013-08-08T08:25:03+01:00</updated>
+  <updated>2013-08-08T09:45:59+01:00</updated>
   <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[定制Octopress]]></title>
+    <link href="http://10000h.github.io/blog/ding-zhi-octopress/"/>
+    <updated>2013-08-08T09:32:00+01:00</updated>
+    <id>http://10000h.github.io/blog/ding-zhi-octopress</id>
+    <content type="html"><![CDATA[<p>今后将时不时的改善自己的博客。记录在这里吧。</p>
+
+<p>首先是把首页上每篇博客头上 XX comments and XX reactions
+可以去掉。这个在 source 里的 _include 里的 article.html。
+最简单的做法就是把相关内容注释掉（html注释用<!-- -->）。</p>
+
+<p>其次是让博客中的链接在新窗口打开。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The First Post on Mac]]></title>
@@ -40,9 +55,9 @@
 
 <p><code>cat file_to_copy | pbcopy</code></p>
 
-<p>就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了！查看version，竟然回到最原始的！
-觉得不可思议！于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
-你需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！</p>
+<p>就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了，查看version，竟然回到最原始的！
+于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
+需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！</p>
 
 <p>于是决定放弃rvm，而按照octopress官网的rbenv开始装。然而此时我早已是人困眼乏。不留神把一行命令</p>
 
