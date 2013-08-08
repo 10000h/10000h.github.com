@@ -4,7 +4,7 @@
   <title><![CDATA[A Trivial Place]]></title>
   <link href="http://10000h.github.io/atom.xml" rel="self"/>
   <link href="http://10000h.github.io/"/>
-  <updated>2013-08-08T10:59:52+01:00</updated>
+  <updated>2013-08-08T13:59:10+01:00</updated>
   <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -25,6 +25,8 @@
 最简单的做法就是把相关内容注释掉（html注释用 &lt; !&#8211; &#8211; &gt; ）。<!-- &lt; is < &gt; is > &#8211;></p>
 
 <p>其次是让博客中的链接在新窗口打开。</p>
+
+<p>日拱一卒，不期速成。</p>
 ]]></content>
   </entry>
   
