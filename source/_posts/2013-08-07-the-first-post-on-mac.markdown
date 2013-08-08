@@ -1,0 +1,59 @@
+---
+layout: post
+title: "The First Post on Mac"
+date: 2013-08-07 19:39
+comments: true
+categories: blogging
+---
+Mac上码的第一篇博客，就写这次安装经历吧。一句话，不容易。
+
+从昨天我用thinkpad发博文之后了，我就开始鼓捣Mac，
+目标就是将thinkpad上的octopress克隆过来。于是开始google，点来了一大堆相关博客。
+发现不管怎样总得先装上git，ruby等作为铺垫。
+
+首先是安装git。Everything goes OK. No problem.
+
+然后是ruby。octopress给出或者rmv装，或者rbenv装。
+因为打算follow的[一个人的博客（1）](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
+是先装homebrew，再装rmv。于是就按照人家的来，装好了ruby。
+这其间发现ruby的官网FTP挂了，但是一搜发现已经有人做了个[镜像](http://ruby.taobao.org)出来了！
+
+装好ruby后，开始按照[另外一个人的博客（2）](http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/#)
+开始克隆，但是被告知permission denied，原因是public key的问题。
+于是开始各种搜（其实选择关键词也得有技巧，octopress multiple machine），发现了[一个博客（3）](http://jamessann.com/2013/01/17/using-octopress-on-multiple-machines-for-mac-os-x/)
+上面有如何建立SSH key。然而问题又出现了，当我按照[官网](https://help.github.com/articles/generating-ssh-keys)
+走到第三步的时候，需要有apt-get和xclip，mac上都木有。于是又开始搜索，为此按照了Mac Ports和Fink（而
+为了Fink又安装了X11），然后下载了xclip。再回过来依然不行。绝望中发现一个简单的命令
+
+``cat file_to_copy | pbcopy``
+
+就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了，查看version，竟然回到最原始的！
+于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
+需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！
+
+于是决定放弃rvm，而按照octopress官网的rbenv开始装。然而此时我早已是人困眼乏。不留神把一行命令
+
+``echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile``
+
+中的一个美元省去，而第二个美元写成S！结果悲剧了！之前那些简单的命令，例如 `ls` 或者 `rm` 都被告知
+command not found。
+
+已经很晚了，只好回家。第一天就这样结束了。
+
+今天接着干。在各大论坛上发帖求救。rubychina需要等7天才能发帖，v2ex因为之前注册过，可以发帖。
+大家各说风云。曾经一度貌似恢复了，但是发现还是不行。最后只能用杀手锏了——去找管理员！
+管理员轻车熟路，明白问题后，进行了一系列眼花缭乱的操作搞定。
+不过看着他那肥硕的大手蹂躏弱小键盘的时候也不由得心疼啊！
+
+然而问题依然得不到解决，依然被告知有冲突，无法按照ruby。
+又想到了管理员（真是学乖了）。去问他，他说鬼知道。于是想卸载homebrew，问是不是删了目录就可以了。
+他说应该看文档啊。这下才觉得之前`rm -rf`的方式太粗暴了。不知道这中间发生了神马。
+在木有time machine的情况下，只有重装系统了！！！
+
+重装系统的时候需要先抹掉之前的系统，然后再reinstall！
+
+然后就开始重装系统，装上一些软件，尤其是Xcode，非常重要。然后按照[这个网页](http://ruby-china.org/wiki/install_ruby_guide)
+上的用rvm装了ruby 1.9.3。 曾一度出现错误status 51，网上搜了一圈发现其余人木有类似问题。
+后来才发现是网断了。很快装好ruby，装好SSH，然后克隆，一切OK.
+
+
