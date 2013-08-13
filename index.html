@@ -161,12 +161,56 @@ $(document).bind('DOMNodeInserted', function(event) {
 
   <div class="entry-content"><p>Mac上码的第一篇博客，就写这次安装经历吧。一句话，不容易。</p>
 
+<p>从昨天我用thinkpad发博文之后了，我就开始鼓捣Mac，
+目标就是将thinkpad上的octopress克隆过来。于是开始google，点来了一大堆相关博客。
+发现不管怎样总得先装上git，ruby等作为铺垫。</p>
+
+<p>首先是安装git。Everything goes OK. No problem.</p>
+
+<p>然后是ruby。octopress给出或者rmv装，或者rbenv装。
+因为打算follow的<a href="http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/">一个人的博客（1）</a>
+是先装homebrew，再装rmv。于是就按照人家的来，装好了ruby。
+这其间发现ruby的官网FTP挂了，但是一搜发现已经有人做了个<a href="http://ruby.taobao.org">镜像</a>出来了！</p>
+
+<p>装好ruby后，开始按照<a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/#">另外一个人的博客（2）</a>
+开始克隆，但是被告知permission denied，原因是public key的问题。
+于是开始各种搜（其实选择关键词也得有技巧，octopress multiple machine），发现了<a href="http://jamessann.com/2013/01/17/using-octopress-on-multiple-machines-for-mac-os-x/">一个博客（3）</a>
+上面有如何建立SSH key。然而问题又出现了，当我按照<a href="https://help.github.com/articles/generating-ssh-keys">官网</a>
+走到第三步的时候，需要有apt-get和xclip，mac上都木有。于是又开始搜索，为此按照了Mac Ports和Fink（而
+为了Fink又安装了X11），然后下载了xclip。再回过来依然不行。绝望中发现一个简单的命令</p>
+
+<p><code>cat file_to_copy | pbcopy</code></p>
+
+<p>就能够搞定了！于是接着按照（3）博客往下走，竟然发现ruby没了，查看version，竟然回到最原始的！
+于是接着按照（1）博客重新来过，然而却被告知homebrew和Mac Ports以及Fink有冲突！
+需要写一行命令将冲突暂时化解。尼玛，啥叫暂时化解？那啥时候又起冲突啊？！</p>
+
+<p>于是决定放弃rvm，而按照octopress官网的rbenv开始装。然而此时我早已是人困眼乏。不留神把一行命令</p>
+
+<p><code>echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.bash_profile</code></p>
+
+<p>中的一个美元省去，而第二个美元写成S！结果悲剧了！之前那些简单的命令，例如 <code>ls</code> 或者 <code>rm</code> 都被告知
+command not found。</p>
+
+<p>已经很晚了，只好回家。第一天就这样结束了。</p>
+
+<p>今天接着干。在各大论坛上发帖求救。rubychina需要等7天才能发帖，v2ex因为之前注册过，可以发帖。
+大家各说风云。曾经一度貌似恢复了，但是发现还是不行。最后只能用杀手锏了——去找管理员！
+管理员轻车熟路，明白问题后，进行了一系列眼花缭乱的操作搞定。
+不过看着他那肥硕的大手蹂躏弱小键盘的时候也不由得心疼啊！</p>
+
+<p>然而问题依然得不到解决，依然被告知有冲突，无法按照ruby。
+又想到了管理员（真是学乖了）。去问他，他说鬼知道。于是想卸载homebrew，问是不是删了目录就可以了。
+他说应该看文档啊。这下才觉得之前<code>rm -rf</code>的方式太粗暴了。不知道这中间发生了神马。
+在木有time machine的情况下，只有重装系统了！！！</p>
+
+<p>重装系统的时候需要先抹掉之前的系统，然后再reinstall！</p>
+
+<p>然后就开始重装系统，装上一些软件，尤其是Xcode，非常重要。然后按照<a href="http://ruby-china.org/wiki/install_ruby_guide">这个网页</a>
+上的用rvm装了ruby 1.9.3。 曾一度出现错误status 51，网上搜了一圈发现其余人木有类似问题。
+后来才发现是网断了。很快装好ruby，装好SSH，然后克隆，一切OK.</p>
 </div>
   
-  
-    <footer>
-      <a rel="full-article" href="/blog/the-first-post-on-mac/">继续阅读 &rarr;</a>
-    </footer>
   
 
 
@@ -369,27 +413,12 @@ here.</p>
 正在Tegel机场等公交（机场有人会给你安排好你目的地的路线，很不错）。
 对了，过海关很快，没有长队，海关用中文说了声“你好”，然后问我待多久就过了。但是等行李依然等了很久。</p>
 
-<p>倒了两趟公交，然后一趟火车，到达Tegel火车站（与Tegel机场相距甚远！）。
-期间从公交站走到火车站费了点周折。问了一位大妈。我说英语，她用德语回答。竟然基本沟通到位！
-然而她并不知道火车站，但是后来我发现了指示牌，于是很顺利找到火车站从而到达Tegel车站。
-因为在网上已经定好了车票，直接坐到Berlin Gesundbrunnen。在那里等待前往Wittenberg的火车。
-期间去了两趟超市买了些吃的，很便宜。下午3点半火车来了。车上基本没人，于是挑了个舒服宽敞的位置坐下。
-后来发现在行李架边缘处显示该座位是否被预订。好座位基本被预订了。于是找没被预订的坐下。
-火车到下个车站的时候，来了很多人，座位都满了。4点半到达Wittenberg。
-下车，基本顺利的找到住的地方，叫Leucorea。它是个研究机构，有悠久的历史。
-另外Wittenberg是宗教改革家马丁路德发表他著名的理论“95条”的地方。</p>
-
-<p>安顿好出来溜达。超市7点关门，赶紧买了些日用品（住的地方没有香皂和洗发水）。然后吃了一个冰激凌。再买了土耳其烤肉饼（3.5欧一大块）。回到住处，发现竟然还是忘了买笔！没有网络，但是依然可以写博客。记下今天的心得。</p>
-
-<p>我感觉，德国美女通常是黑头发蓝眼睛。</p>
-
-<p>柏林比伦敦干燥，但是还好。柏林的树木真多。</p>
-
-<p>德语很有意思，有一种“兹兹(ci)”的感觉。有机会应该学一下。</p>
-
-<p>德国人基本都很友善，而且能够懂英语，除了Wittenberg dm 超市收银员mm之外。</p>
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/blog/chu-dao-de-guo/">继续阅读 &rarr;</a>
+    </footer>
   
 
 
