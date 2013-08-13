@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | A Trivial Place]]></title>
   <link href="http://10000h.github.io/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://10000h.github.io/"/>
-  <updated>2013-08-13T11:49:01+01:00</updated>
+  <updated>2013-08-13T11:56:32+01:00</updated>
   <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -36,6 +36,9 @@
     <updated>2013-08-07T19:39:00+01:00</updated>
     <id>http://10000h.github.io/blog/the-first-post-on-mac</id>
     <content type="html"><![CDATA[<p>Mac上码的第一篇博客，就写这次安装经历吧。一句话，不容易。</p>
+
+<!--more-->
+
 
 <p>从昨天我用thinkpad发博文之后了，我就开始鼓捣Mac，
 目标就是将thinkpad上的octopress克隆过来。于是开始google，点来了一大堆相关博客。
