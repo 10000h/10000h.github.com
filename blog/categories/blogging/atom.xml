@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | A Trivial Place]]></title>
   <link href="http://10000h.github.io/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://10000h.github.io/"/>
-  <updated>2013-08-13T12:28:17+01:00</updated>
+  <updated>2013-08-14T09:38:28+01:00</updated>
   <id>http://10000h.github.io/</id>
   <author>
     <name><![CDATA[w]]></name>
@@ -38,7 +38,7 @@
 开始克隆，但是被告知permission denied，原因是public key的问题。
 于是开始各种搜（其实选择关键词也得有技巧，octopress multiple machine），发现了<a href="http://jamessann.com/2013/01/17/using-octopress-on-multiple-machines-for-mac-os-x/">一个博客（3）</a>
 上面有如何建立SSH key。然而问题又出现了，当我按照<a href="https://help.github.com/articles/generating-ssh-keys">官网</a>
-走到第三步的时候，需要有apt-get和xclip，mac上都木有。于是又开始搜索，为此按照了Mac Ports和Fink（而
+走到第三步的时候，需要有apt-get和xclip，mac上都木有。于是又开始搜索，为此安装了Mac Ports和Fink（而
 为了Fink又安装了X11），然后下载了xclip。再回过来依然不行。绝望中发现一个简单的命令</p>
 
 <p><code>cat file_to_copy | pbcopy</code></p>
